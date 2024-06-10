@@ -103,6 +103,4 @@ Enter the corresponding number for the action you'd like to take here: ''')
 
 main()
 
-#questions
-# how do i get the prior print statement to dissappear?
-#do the smaller functions have to be above the main functions? does the order matter?
+
